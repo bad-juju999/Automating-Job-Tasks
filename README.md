@@ -20,7 +20,7 @@
 
 <p align="center">
 User can select Excel file locations for automation to pull data from. User can then click "Run Page 1" to fill out first screen of online form: <br/>
-<img src="https://i.imgur.com/ffC9BJe.png" height="75%" width="75%" alt="Opening GUI Controller for Automation"/>
+<img src="https://i.imgur.com/ffC9BJe.png" height="80%" width="80%" alt="Opening GUI Controller for Automation"/>
 <br />
 <br />
 Before automation runs:  <br/>
@@ -32,4 +32,4 @@ After automation runs: <br/>
 <br />
 <br />
 User can click "Run Page 2" to fill out second screen of online form: <br/>
-<img src="https://i.imgur.com/Nd3UlVK.png" height="75%" width="75%" alt="Using GUI to fill out subsequent screens of form"/>
+<img src="https://i.imgur.com/Nd3UlVK.png" height="80%" width="80%" alt="Using GUI to fill out subsequent screens of form"/>
